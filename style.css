@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+h1{
+    background-image: url("../Images/banniere.jpg")  ;
+    background-position: Center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+    filter: grayscale(0.5);    
+    text-align: center;
+    color: white;
+}
+h4{
+    padding-left: 32px;
+    color: red;
+    text-align: left;
+    font-size: x-large;
+}
