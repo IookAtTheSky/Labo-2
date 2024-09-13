@@ -2,7 +2,7 @@ body{
     background-color: pink;
 }
 h1{
-    background-image: url("../Images/banniere.jpg")  ;
+    background-image: url("Images/banniere.jpg")  ;
     background-position: Center;
     padding-top: 32px;
     padding-bottom: 32px;
